@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="login">Log-In</string>
+    <string name="count">Hitung</string>
+    <string name="loading">Loading...</string>
+    <string name="paragraf">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eu elit at purus venenatis dictum. In ut porttitor orci, sit amet pretium turpis. Suspendisse lobortis, neque id varius molestie, arcu sem varius metus, eu semper urna risus at orci. Aenean eleifend, orci eget accumsan vehicula, urna dui rhoncus lorem, eget eleifend nisi sapien eget massa. Sed imperdiet auctor luctus. Vivamus suscipit, mi sit amet mattis sodales, eros nisl tempor velit, eget tristique odio sapien quis odio. Nullam pulvinar, massa at mattis semper, risus mauris scelerisque nibh, vitae sagittis sem mauris id purus. Nam non leo vel odio dapibus cursus vitae nec est. Aliquam mattis, ipsum et euismod condimentum, eros tellus venenatis tellus, vitae pharetra justo lectus ac sem.
+
+\n\nSed dapibus pulvinar libero ornare laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus viverra pellentesque. Nulla sed dictum ante. Suspendisse at odio vitae lorem aliquet placerat sed sit amet arcu. Nam pellentesque imperdiet odio, at pharetra ante malesuada et. Nullam lobortis sapien sed viverra lobortis. Duis pulvinar lectus a semper congue. Proin interdum semper quam, a mattis leo iaculis et. Mauris eget posuere diam. Ut sagittis ligula orci, in molestie lectus tincidunt non.
+
+\n\nDonec efficitur metus quis viverra pharetra. Nam ac nisl luctus, efficitur elit quis, luctus arcu. Aenean sodales erat nec tempus consectetur. Quisque dolor tellus, cursus id velit auctor, sollicitudin vehicula metus. Aenean congue ullamcorper porta. Ut venenatis, lacus nec tincidunt pulvinar, arcu leo vulputate lectus, non tempus enim risus sit amet justo. Quisque suscipit consequat semper. Morbi nec velit vitae arcu finibus tempor. Curabitur elementum purus vel lacus vehicula tincidunt. Vestibulum ultricies consequat volutpat. Nunc tristique luctus mauris ac pharetra. Sed rutrum accumsan mauris, non vehicula libero viverra id. Mauris cursus et lectus sed tristique.    </string>
+</resources>
