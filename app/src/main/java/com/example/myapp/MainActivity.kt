@@ -77,5 +77,10 @@ class MainActivity() : AppCompatActivity(), Parcelable {
                 ).show()
             }
         }
+        btnClick.setOnClickListener {
+            val intent = Intent(this, SecondActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 }
